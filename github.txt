@@ -1,1 +1,27 @@
-hello mohit
+git hub flow
+
+
+git fork from organization 
+
+git clone to local
+
+For create new branch
+git checkout -b branchname
+
+
+do changes and commit in new branch
+
+for Upade in git hub
+git push origin HEAD:newbranchname
+
+raise pr form Git hib
+
+add upstream link to that org.
+
+
+for geting update from org branch
+git pull upstream branchname
+
+git branch -d branchname
+
+for delete branch in git hub do delete form branches in github
